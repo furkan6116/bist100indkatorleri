@@ -4,3 +4,5 @@ verileri bigparadan 15 dakika gecikmeli olarak çekiyorki hiçbir trader ücrets
 
 ## Bu Bot Ne Yapar?
 15 dakika gecikmeli Bist100 değerlerinin 4 adet can alıcı indikatörünü sizin için çekip alır
+
+![alt text](https://raw.githubusercontent.com/furkan6116/bist100indkat-rde-erleri/master/Ads%C4%B1z.png)
